@@ -1,1 +1,1 @@
-local key = "slikszjwzv"
+slikszjwzv
