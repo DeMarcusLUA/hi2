@@ -1,1 +1,1 @@
-slikszjwzv
+return "slikszjwzv"
